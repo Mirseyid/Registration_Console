@@ -64,7 +64,7 @@ namespace Mentor_class_5.Crud
             usr.userRoles.Add(Write);
             usr.userRoles.Add(Read);
 
-            return "REgistration is successfuly";
+            return "Registration is successfuly";
         }
     }
 }
